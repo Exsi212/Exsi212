@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olya</h1>
-<h3 align="center">A UX\UI designer from Moscow</h3>
+<h3 align="center">A UX/UI designer from Moscow</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exsi212&label=Profile%20views&color=0e75b6&style=flat-square" alt="exsi212" /> </p>
 
